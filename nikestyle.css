@@ -1,0 +1,29 @@
+body{
+	background-color: black;
+	color: white ;
+	font-family: 'Exo 2', sans-serif;
+
+}
+
+.header{
+	font-family: 'Anton', sans-serif;
+	background-color: black;
+	min-height: 200px;	
+}
+
+.box {
+	min-height: 200px;
+}
+
+.logo {
+	width: 100%;
+}
+
+.main{
+
+	background-color: black;
+	}
+.footer{
+
+	background-color:#454545;  
+}
